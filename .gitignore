@@ -1,5 +1,4 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 ### Python ###
@@ -149,6 +148,6 @@ Thumbs.db
 
 # profiling data
 .prof
-
+.gitignore
 
 # End of https://www.toptal.com/developers/gitignore/api/python
